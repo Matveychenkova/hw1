@@ -17,9 +17,10 @@
 |3|gut|щеки цвета рождественского носка|
 |4|okay|щеки цвета алых роз|
 
+*******
+#### контакты
 
 ![контакты](https://pp.userapi.com/c840726/v840726002/486c4/NUOXk6S5GOM.jpg "контакты")
 
-моя страница [ВК](https://vk.com/mmoloko_plus)
-******
-моя почта <martanavsegda@gmail.com>
+* моя страница [ВК](https://vk.com/mmoloko_plus)
+* моя почта <martanavsegda@gmail.com>
